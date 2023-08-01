@@ -26,35 +26,36 @@ import TheHeader from "./components/TheHeader.vue"
 // import TheNature from "./components/TheNature.vue"
 
 
-// const artworks = [
-//   {
-//     title: '10 minutes of nothing',
-//     image: './assets/nature-12.jpg',
-//     media: 'glass beads, thread.',
-//     height: 4,
-//     width: 6,
-//     units: 'in',
-//     year: 2021,
-//   },
+const artworks = [
+  {
+    title: '10 minutes of nothing',
+    image: './assets/nature-12.jpg',
+    media: 'glass beads, thread.',
+    height: 4,
+    width: 6,
+    units: 'in',
+    year: 2021,
+  },
 
-//   // {
-//   //   title: 'The Building with Hematite Windows',
-//   //   media: 'glass beads, thread.',
-//   //   image: './assets/site-2.jpg',
-//   //   height: 19,
-//   //   width: 16,
-//   //   units: 'in',
-//   //   year: 2006,
-//   // },
-//   // {
-//   //   title: 'Climbing Inside the Tower',
-//   //   media: 'glass beads, thread.',
-//   //   image: './assets/site-7.jpg',
-//   //   height: 16,
-//   //   width: 16,
-//   //   units: 'in',
-//   //   year: 2009,
-//   // },
+  {
+    title: 'The Building with Hematite Windows',
+    media: 'glass beads, thread.',
+    image: './assets/site-2.jpg',
+    height: 19,
+    width: 16,
+    units: 'in',
+    year: 2006,
+  },
+  {
+    title: 'Climbing Inside the Tower',
+    media: 'glass beads, thread.',
+    image: './assets/site-7.jpg',
+    height: 16,
+    width: 16,
+    units: 'in',
+    year: 2009,
+  },
+]
 //   // {
 //   //   title: 'The Crystal Chandelier',
 //   //   media: 'glass beads, thread.',
