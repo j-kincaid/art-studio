@@ -1,5 +1,6 @@
 <template>
   <div class="frame">
+    <h1>Dream Series</h1>
     <TheHeader></TheHeader>
   </div>
 
